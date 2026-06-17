@@ -166,4 +166,4 @@ entity PurchaseOrders as projection on db.PurchaseOrders {
   }
 }
 
-using from '../app/purchase/annotations';
+using from '../app/purchase/annotations';// Improved annotations
